@@ -1,0 +1,3 @@
+﻿
+
+1. Kreirati Relationships dijagram kojim će se opisati dio baze podataka za upravljanje projektima. Projekat je opisan atributima projekatID, naziv, opis, budzet, datumPocetka, datumZavrsetka. Na jednom projektu može biti angažovano više osoba. Jedna osoba može biti angaživana na više projekata, gdje joj se dodjeljuje opis posla odnosno uloga koju obavlja na datom projektu. Također, na jednom projektu osoba može biti angažovana isključivo jedanput nezavisno od uloge koju obavlja. Osoba je opisana atributima osobalD, ime i prezime. Za svaku osobu potrebno je u posebnoj tabeli zabilježiti i njene login podatke username, password i status. Svaki od projekata pripada jednoj kategoriji za koju je potrebno zabilježiti kategorijaID, naziv i opis kategorije.
